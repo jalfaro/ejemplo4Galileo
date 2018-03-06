@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListasDropdown</string>
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Morado</item>
+        <item>Cyan</item>
+        <item>Rosa</item>
+    </string-array>
+</resources>
